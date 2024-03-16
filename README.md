@@ -67,3 +67,6 @@ SFProDisplaySemibold.ttf
 SFProDisplayMedium.ttf
 SFProDisplayBold.ttf
 ```
+
+### Screenshot of App UI
+![Image Alt text](images/Group 25.png "ScreenShot")
