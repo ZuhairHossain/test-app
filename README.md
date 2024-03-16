@@ -69,4 +69,4 @@ SFProDisplayBold.ttf
 ```
 
 ### Screenshot of App UI
-![Image Alt text](images/Group 25.png "ScreenShot")
+![Image Alt text](images/Group25.png "ScreenShot")
